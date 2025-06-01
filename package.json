@@ -1,5 +1,5 @@
 {
-  "name": "swu-competetive-matrix",
+  "name": "swu-deck-matrix",
   "version": "1.0.0",
   "description": "TypeScript Node.js app for fetching, extracting, and analyzing Star Wars Unlimited competitive decklists with comprehensive statistical insights",
   "main": "dist/index.js",

@@ -1,4 +1,4 @@
-# SWU Competitive Matrix
+# SWU Deck Matrix
 
 A TypeScript Node.js application that fetches HTML pages from URLs, extracts card lists, and generates comprehensive statistical analysis of Star Wars Unlimited competitive decklists.
 
@@ -21,7 +21,7 @@ A TypeScript Node.js application that fetches HTML pages from URLs, extracts car
 1. Clone or download the project
 2. Navigate to the project directory:
    ```bash
-   cd swu-competetive-matrix
+   cd swu-deck-matrix
    ```
 3. Install dependencies:
    ```bash
@@ -94,7 +94,7 @@ A comprehensive CSV file containing:
 ## Project Structure
 
 ```
-swu-competetive-matrix/
+swu-deck-matrix/
 ├── README.md              # This file
 ├── package.json           # Node.js dependencies and scripts
 ├── tsconfig.json          # TypeScript configuration
