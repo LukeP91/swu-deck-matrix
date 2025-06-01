@@ -1,0 +1,16 @@
+# Example links.txt file
+# Add one URL per line for decklists you want to analyze
+# Remove this comment section and add real URLs below
+
+https://melee.gg/Decklist/View/5dc26b7a-ff6a-44f0-a459-b2ed01560856
+https://melee.gg/Decklist/View/be5abb5e-e24f-4568-a3c7-b2ed015ffa2a
+https://melee.gg/Decklist/View/4368bc6e-b029-4cd2-8e54-b2ee0076f210
+https://melee.gg/Decklist/View/0e54b8ef-8900-4c92-8b11-b2ec015c04da
+https://melee.gg/Decklist/View/76a48acc-bb15-4760-94b5-b2e7017b9520
+
+# Copy this file to links.txt and replace with your actual URLs
+# Format: One URL per line, no commas or quotes needed
+# Example sources:
+# - Tournament results from melee.gg
+# - Competitive decklist databases
+# - Meta analysis websites

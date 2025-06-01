@@ -1,0 +1,28 @@
+{
+  "name": "swu-competetive-matrix",
+  "version": "1.0.0",
+  "description": "TypeScript Node.js app for fetching, extracting, and analyzing Star Wars Unlimited competitive decklists with comprehensive statistical insights",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "tsc && node dist/index.js",
+    "extract": "tsc && node dist/extract.js",
+    "matrix": "tsc && node dist/matrix.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["star-wars-unlimited", "swu", "decklist", "card-game", "meta-analysis", "statistics", "web-scraping", "competitive", "typescript"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "fs-extra": "^11.1.1",
+    "jsdom": "^26.1.0"
+  },
+  "devDependencies": {
+    "@types/fs-extra": "^11.0.4",
+    "@types/jsdom": "^21.1.7",
+    "@types/node": "^20.10.0",
+    "typescript": "^5.3.2"
+  }
+}
